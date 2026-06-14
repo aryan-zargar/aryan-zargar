@@ -46,7 +46,7 @@ aryan.zargar90@gmail.com
 
 - 👩‍💻 working on my skills to make myself stronger </strong>.
 - 🔭 I’m currently working on <a href="https://github.com/aryan-zargar/MadreseMan" ><strong>Madrese Man Project</strong></a> 
-- 🌱 I’m currently learning <strong>AI</strong> and <strong>Android Programming</strong>
+- 🌱 I’m currently learning <strong>LPIC-1</strong> and <strong>physics</strong>
 - 🤔 My research interests are with <strong>Chess, Politics, Geography and etc..</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Programming</strong> industry
 - 💬 Feel free to discuss with me about <strong>EVERY THING Realted to Programming</strong>
