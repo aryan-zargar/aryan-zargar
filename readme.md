@@ -56,10 +56,16 @@ aryan.zargar90@gmail.com
 <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/React%20-%23777BB4.svg?&style=for-the-badge&logo=react&logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">   <img src="https://img.shields.io/badge/Vue%20-%23DD0031.svg?&style=for-the-badge&logo=vue&logoColor=white"> 
 <img src="https://img.shields.io/badge/tailwind%20-%230D597F.svg?&style=for-the-badge&logo=tailwind&logoColor=white">   <img src="https://img.shields.io/badge/Csharp%20-%23FF6F00.svg?&style=for-the-badge&logo=Csharp&logoColor=white">   <img src="https://img.shields.io/badge/ASP.NET%20-%23008CC1.svg?&style=for-the-badge&logo=asp.net&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/sqlserver%20-%23F05032.svg?&style=for-the-badge&logo=sqlserver&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
-### GitHub Highlights: :blossom:
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aryan-zargar&theme=material-palenight"/>
-</a>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=aryan-zargar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aryan-zargar&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-zargar&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
+
 
 
 
